@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1004140766224",
+    "firebase_url": "https://softwarelabsassignment-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "softwarelabsassignment",
+    "storage_bucket": "softwarelabsassignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004140766224:android:2a47df681be3c6be299695",
+        "android_client_info": {
+          "package_name": "com.example.softwarelabs_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004140766224-5e8r0vo0q9j9h5g20329rlt4cvh0rq1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.softwarelabs_assignment",
+            "certificate_hash": "c0f430ed968bb701242111911a6d1bdcb9d196ee"
+          }
+        },
+        {
+          "client_id": "1004140766224-jkvoh2l3c112e2s7cdu766kgv6pamve3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbsQUNHv5u-3km3UMmQ8l2UP4bLI0K10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004140766224-jkvoh2l3c112e2s7cdu766kgv6pamve3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004140766224-8iqev8eugb2tt4nhijdda61e17tm59c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.softwarelabsIos"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004140766224:android:17b75e34d5d9d00c299695",
+        "android_client_info": {
+          "package_name": "com.example.softwarelabs_ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004140766224-jkvoh2l3c112e2s7cdu766kgv6pamve3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbsQUNHv5u-3km3UMmQ8l2UP4bLI0K10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004140766224-jkvoh2l3c112e2s7cdu766kgv6pamve3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004140766224-8iqev8eugb2tt4nhijdda61e17tm59c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.softwarelabsIos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
