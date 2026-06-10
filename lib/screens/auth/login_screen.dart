@@ -41,7 +41,7 @@ class _LoginScreenState
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text(
-            "Login Successful",
+            "Login Successfull",
           ),
         ),
       );
